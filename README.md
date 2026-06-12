@@ -9,32 +9,30 @@ Estudiante de desarrolo y aplicaciones web (DAW)
 - Docker, Docker Compose
 - SQL, Bash, Git
 
-## En qué trabajo
+### En qué trabajo
 - Infraestructura, despliegues y automatización.
 - Servicios self-hosted y administración de sistemas.
 - Creación de páginas web con Express, Prisma con PostgreSQL y un frontend en Vanilla JS (ES Modules). 
 
-## Intereses
+### Intereses
 - AI agents y automatización.
 - Networking, Proxmox y OPNsense.
 - Self-hosted services y sistemas propios.
 - Optimización de flujos de trabajo con terminal, Docker y scripting.
 
 
-## Proyectos destacados
+#### Proyectos destacados
 - [virtual-waiter-atlantida](https://github.com/aircury/virtual-waiter-atlantida)
 
-## Contacto
+##### Contacto
 - [LinkedIn](https://www.linkedin.com/in/angeldt)
 
 ---
 
 ## Actividad en GitHub
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AngeIDTorres&show_icons=true&theme=tokyonight" height="150" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeIDTorres&layout=compact&theme=tokyonight" height="150" /></td>
-    <td><img src="https://streak-stats.demolab.com?user=AngeIDTorres&theme=tokyonight" height="150" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngeIDTorres&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeIDTorres&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com?user=AngeIDTorres&theme=tokyonight" height="150" />
+</p>

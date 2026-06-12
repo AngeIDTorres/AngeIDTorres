@@ -31,12 +31,10 @@ Estudiante de desarrolo y aplicaciones web (DAW)
 
 ## Actividad en GitHub
 
-- Commits en proyectos personales y colaborativos.
-- Pull requests en proyectos propios y de terceros.
-- Participación en mejoras, refactors y issues.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngeIDTorres&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeIDTorres&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AngeIDTorres&theme=tokyonight)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AngeIDTorres&show_icons=true&theme=tokyonight" height="150" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeIDTorres&layout=compact&theme=tokyonight" height="150" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=AngeIDTorres&theme=tokyonight" height="150" /></td>
+  </tr>
+</table>
